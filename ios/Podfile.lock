@@ -1,0 +1,29 @@
+PODS:
+  - awesome_notifications (0.8.1):
+    - Flutter
+    - IosAwnCore (~> 0.8.0)
+  - Flutter (1.0.0)
+  - IosAwnCore (0.8.0)
+
+DEPENDENCIES:
+  - awesome_notifications (from `.symlinks/plugins/awesome_notifications/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - IosAwnCore
+
+EXTERNAL SOURCES:
+  awesome_notifications:
+    :path: ".symlinks/plugins/awesome_notifications/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  awesome_notifications: 6b8f65ce5001b28127f51fd83db9754ebd198916
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  IosAwnCore: ed1b2b6d84962a758354dbacd9ce525c72ce28a9
+
+PODFILE CHECKSUM: 03b25b399b5b6b1271b7719f60652ed93bc600a5
+
+COCOAPODS: 1.16.2
