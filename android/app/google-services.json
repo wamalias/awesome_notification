@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833233602830",
+    "project_id": "auth-modul-b7b48",
+    "storage_bucket": "auth-modul-b7b48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833233602830:android:32298ee1303aa11855af5f",
+        "android_client_info": {
+          "package_name": "com.example.awesome_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtnvPRn-YZcqgrwT5ytH2D5qID64exSYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
